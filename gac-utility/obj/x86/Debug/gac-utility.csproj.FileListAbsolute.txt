@@ -1,0 +1,6 @@
+E:\develop\visual_studio\gac-utility\gac-utility\bin\Debug\gac-utility.exe
+E:\develop\visual_studio\gac-utility\gac-utility\bin\Debug\gac-utility.pdb
+E:\develop\visual_studio\gac-utility\gac-utility\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\develop\visual_studio\gac-utility\gac-utility\obj\x86\Debug\gac-utility.exe
+E:\develop\visual_studio\gac-utility\gac-utility\obj\x86\Debug\gac-utility.pdb
+E:\develop\visual_studio\gac-utility\gac-utility\bin\Debug\gac-utility.exe.config
